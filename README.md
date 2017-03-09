@@ -3,7 +3,11 @@ This repository is a collection of resources and code snippets for instructional
 
 ## Resources 
 
-The two files in this repository offer a basic HTML framework.
+The two files in this repository offer a basic HTML framework. You can see them in the repo file list, but if this whole github/repository thing is a little confusing I'll link them here as well:
+
+  * Barebones HTML https://github.com/StudioZut/workshop/blob/master/html-bare
+
+  * Even More Barebones HTML https://github.com/StudioZut/workshop/blob/master/html-super-bare
 
 A great web-based tool to test and play with HTML, CSS and JS: https://codepen.io
 
