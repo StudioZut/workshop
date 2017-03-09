@@ -23,6 +23,6 @@ Intro to JavaScript: http://eloquentjavascript.net/
 
 A few text and code editors:
 
-Windows: Notepad++ (free) or Sublime Text (free to try)
-Mac: TextEdit (pre-installed) or Sublime Text (free to try)
-Linux: GEdit (or any included text editor that came with your distribution) or Sublime Text (free to try)
+__Windows__: Notepad++ (free) or Sublime Text (free to try)
+__Mac__: TextEdit (pre-installed) or Sublime Text (free to try)
+__Linux__: GEdit (or any included text editor that came with your distribution) or Sublime Text (free to try)
