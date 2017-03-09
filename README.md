@@ -1,5 +1,5 @@
 # workshop
-Snippets for instructional workshops
+This repository is a collection of resources and code snippets for instructional workshops.
 
 ## Resources 
 
