@@ -21,6 +21,8 @@ Intro to CSS: http://htmldog.com/guides/css/beginner/
 
 Intro to JavaScript: http://eloquentjavascript.net/ 
 
+A primer on javascript functions in four steps: https://codepen.io/studiozut/pen/mjpKLZ
+
 A few text and code editors:
 
 __Windows__: Notepad++ (free) or Sublime Text (free to try)
